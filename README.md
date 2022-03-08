@@ -1,3 +1,6 @@
+# Pedro Vitor
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ballistc-dot)](https://github.com/Ballistc-dot/github-readme-stats)
 ### Hi there 👋
 
 <!--
