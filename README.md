@@ -3,13 +3,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ballistc-dot&theme=dracula)](https://github.com/Ballistc-dot/github-readme-stats)
 ### Hi there 👋
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
 
-</div>
+![react logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![next](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) ![node](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)
 
 
 
