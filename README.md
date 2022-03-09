@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 
-<div style="display:inline-block;">
+<div style="display:inline_block">
   <img align:"center"  height:"30" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
   <img align:"center" height:"30" width:"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> 
   <img align:"center" height:"30" width:"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/> 
