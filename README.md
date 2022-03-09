@@ -14,7 +14,7 @@
 
 
 
-####My name is Pedro Vitor.
+#### My name is Pedro Vitor.
 
 I'm a full stack developer with 2 year studying techs like: React/React native, Next.js, PostgresSQL, MongoDB, Firebase, Node.js... 
 I'm searching for oportunities and challanges to show and improve my skills. 
