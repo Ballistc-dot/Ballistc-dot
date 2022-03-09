@@ -4,8 +4,13 @@
 ### Hi there 👋
 
 
+<div style="display:inline-block;">
+  <img align:"center"  height:"30" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
+  <img align:"center" height:"30" width:"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> 
+  <img align:"center" height:"30" width:"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/> 
+ </div>
 
-![react logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![next](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) ![node](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)
+
 
 
 
