@@ -21,7 +21,7 @@ I'm searching for oportunities and challanges to show and improve my skills.
 My english level is B1/intermediate
 I'm Brazilian from countryside of São Paulo.
 I'm working on expand my portifolio with full stack apps with Next.js
-
+I'm currently studying Software Analysis and Development at cruzeirodosul.edu.br
 
 ##### if you are looking for people to help you in your company, contact-me in my personal email: ballistcoficial@gmail.com
 
